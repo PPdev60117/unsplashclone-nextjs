@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="flex h-14 flex-row justify-between w-full relative">
             
                 <div className='my-auto mx-3 flex-none '>
-                    <Link href={'http://localhost:3000/'} className=''>
+                    <Link href={'/'} className=''>
                         <Image width={600}
               height={600} src="https://avatars.githubusercontent.com/u/9951955?s=200&v=4" alt="" className='w-10 h-10 m-auto'/>
                     </Link>
